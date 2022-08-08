@@ -9,7 +9,7 @@ For each in the test set, the model has to predict a 0 or 1 value for the variab
 ## The attributes in the data provided have the following meaning:
 **Survived:** that's the target, 0 means the passenger did not survive, while 1 means he/she survived.
 
-**.Pclass:** passenger class.
+**'.'Pclass:** passenger class.
 
 **Name:** consist names of all passenger
 
