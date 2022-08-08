@@ -1,5 +1,5 @@
 # Kaggle Titanic Challenge
-Predicting passengers survival
+Predicting if a passenger will survive or not.
 
 ## Objective of the challenge:
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
