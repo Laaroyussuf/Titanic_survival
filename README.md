@@ -6,6 +6,9 @@ The competition is simple: use machine learning to create a model that predicts 
 
 For each in the test set, the model has to predict a 0 or 1 value for the variable. Where 0 means the passenger did not survive, while 1 means he/she survived.
 
+## About the data provided
+The data is divided into two; train and test data. The train data has a label for training purpose while the test data has no label, the goal is to predict the correct class (0 'survived' or 1 'not survived') for the test set.
+
 ## The attributes in the data provided have the following meaning:
  **- Survived:** that's the target, 0 means the passenger did not survive, while 1 means he/she survived.
 
