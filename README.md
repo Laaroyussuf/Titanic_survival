@@ -1,2 +1,2 @@
-# Titanic_survival
+# Kaggle Titanic Challenge
 Predicting passengers survival
